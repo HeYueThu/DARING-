@@ -1,2 +1,2 @@
 # DARING-
-Code for DARING: Differentiable Causal Discovery with ResidualIndependence (KDD2021)
+Code for DARING: Differentiable Causal Discovery with Residual Independence (KDD2021) [coming soon。。。]
